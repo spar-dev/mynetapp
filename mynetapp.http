@@ -1,6 +1,0 @@
-@mynetapp_HostAddress = http://localhost:5125
-
-GET {{mynetapp_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
